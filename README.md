@@ -1,2 +1,2 @@
-# web-dev-hw
+# Skyler Kunz web-dev-hw
 Repository for my Intro Web Dev homework.
